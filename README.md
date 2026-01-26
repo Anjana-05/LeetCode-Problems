@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
