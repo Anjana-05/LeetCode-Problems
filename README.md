@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
