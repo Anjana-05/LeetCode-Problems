@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
