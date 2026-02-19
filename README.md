@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
+| [2643-row-with-maximum-ones](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [2643-row-with-maximum-ones](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
