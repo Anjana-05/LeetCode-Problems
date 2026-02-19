@@ -7,15 +7,12 @@ class Solution {
             for(int j = 0 ; j < mat[0].length; j++){
                 sum += mat[i][j];
             }
-            rowsum[i] = sum;
-        }
-
-        for(int k = 0 ; k < mat.length; k++){
-            if(rowsum[k] > maxiOnes[1]){
-                maxiOnes[0] = k;
-                maxiOnes[1] = rowsum[k];
+            if(sum > maxiOnes[1]){
+                maxiOnes[0] = i;
+                maxiOnes[1] = sum;
             }
         }
+
         return maxiOnes;
     }
 }
