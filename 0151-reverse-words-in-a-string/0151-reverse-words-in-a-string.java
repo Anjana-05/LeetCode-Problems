@@ -3,11 +3,12 @@ class Solution {
         s = s.trim();
        String[] words = s.split("\\s+");
 
-       String res = "";
+       StringBuilder res = new StringBuilder();
        for(int i = words.length-1; i > 0; i--){
-            res += words[i] + " ";
+            res.append(words[i]);
+            res.append(' ');
        } 
-       res += words[0];
-       return res;
+       res.append(words[0]);
+       return res.toString();
     }
 }
