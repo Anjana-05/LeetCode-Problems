@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
