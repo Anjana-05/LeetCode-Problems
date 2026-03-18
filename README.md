@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2079-watering-plants) |
+| [2239-find-closest-number-to-zero](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2643-row-with-maximum-ones](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
