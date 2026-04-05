@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
