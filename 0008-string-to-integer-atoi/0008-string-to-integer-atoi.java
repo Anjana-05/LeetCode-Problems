@@ -15,8 +15,8 @@ class Solution {
             else
                 break;
             index++;
-            if(res * sign >= Integer.MAX_VALUE) return Integer.MAX_VALUE;
-            else if(res * sign <= Integer.MIN_VALUE) return Integer.MIN_VALUE; 
+            if(res * sign > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            else if(res * sign < Integer.MIN_VALUE) return Integer.MIN_VALUE; 
         }
 
         return (int)res * sign;
