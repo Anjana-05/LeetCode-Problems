@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
