@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2079-watering-plants) |
 | [2239-find-closest-number-to-zero](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2239-find-closest-number-to-zero) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
