@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2079-watering-plants) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Union-Find
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
