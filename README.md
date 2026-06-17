@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
