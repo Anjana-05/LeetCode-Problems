@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Union-Find
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
