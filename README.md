@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjana-05/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 ## Tree
 |  |
