@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [1534-count-good-triplets](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1534-count-good-triplets) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2079-watering-plants) |
 | [2239-find-closest-number-to-zero](https://github.com/Anjana-05/LeetCode-Problems/tree/master/2239-find-closest-number-to-zero) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
