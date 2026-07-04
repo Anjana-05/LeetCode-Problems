@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
