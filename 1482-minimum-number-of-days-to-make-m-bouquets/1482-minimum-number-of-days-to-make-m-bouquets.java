@@ -28,7 +28,7 @@ class Solution {
         for(int b : bloomDay){
             if(b <= bloom){
                 count++;
-                if(count >= k){
+                if(count == k){
                     bouquet++;
                     count = 0;
                 }
