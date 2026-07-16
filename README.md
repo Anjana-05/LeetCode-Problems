@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
