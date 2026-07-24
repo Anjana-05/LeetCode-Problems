@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |
