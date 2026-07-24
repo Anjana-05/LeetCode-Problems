@@ -12,7 +12,7 @@ class Solution {
                     stack.push(b-a);
                 else if(tokens[i].equals("*"))
                     stack.push(a*b);
-                else if(a != 0)
+                else
                     stack.push(b / a);
             }
             else
