@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Database
