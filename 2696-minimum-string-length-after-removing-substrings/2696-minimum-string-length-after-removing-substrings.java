@@ -1,15 +1,18 @@
 class Solution {
     public int minLength(String s) {
-        Stack<Character> stack = new Stack<>();
+        StringBuilder sb = new StringBuilder();
 
         for(int i = 0 ; i < s.length() ; i++){
-            if(!stack.isEmpty() && stack.peek() == 'A' && s.charAt(i) == 'B')
-                stack.pop();
-            else if(!stack.isEmpty() && stack.peek() == 'C' && s.charAt(i) == 'D')
-                stack.pop();
+            int len = sb.length();
+            if(len > 0 && sb.charAt(len-1) == 'A' && s.charAt(i) == 'B')
+                sb.deleteCharAt(len-1);
+            
+            else if(len > 0 && sb.charAt(len-1) == 'C' && s.charAt(i) == 'D')
+                sb.deleteCharAt(len-1);
+
             else
-                stack.push(s.charAt(i));
+                sb.append(s.charAt(i));
         }
-        return stack.size();
+        return sb.length();
     }
 }
