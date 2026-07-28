@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1544-make-the-string-great) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
