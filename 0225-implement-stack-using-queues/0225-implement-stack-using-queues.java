@@ -7,20 +7,26 @@ class MyStack {
     }
     
     public void push(int x) {
-        q2.offer(x);
-        while(!q1.isEmpty())
-            q2.offer(q1.poll());
-
-        while(!q2.isEmpty())
-            q1.offer(q2.poll());
+        q1.offer(x);
     }
     
     public int pop() {
-        return q1.poll();
+        while(q1.size() > 1)
+            q2.offer(q1.poll());
+        int val = q1.poll();
+        q1 = q2;
+        q2 = new LinkedList<>();
+        return val;
     }
     
     public int top() {
-        return q1.peek();
+        while(q1.size() > 1)
+            q2.offer(q1.poll());
+        int val = q1.peek();
+        q2.offer(val);
+        q1 = q2;
+        q2 = new LinkedList<>();
+        return val;
     }
     
     public boolean empty() {
