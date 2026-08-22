@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
 | ------- |
