@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anjana-05/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
@@ -456,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjana-05/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anjana-05/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
